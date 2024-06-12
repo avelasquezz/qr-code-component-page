@@ -38,7 +38,7 @@ section {
   gap: 1.5rem;
   padding: 1rem;
   text-align: center;
-  border-radius: 0.625rem;
+  border-radius: 1.25rem;
   box-shadow: 0 25px 25px 0 hsla(0, 0%, 0%, 0.05);
   background-color: var(--white);
 }
